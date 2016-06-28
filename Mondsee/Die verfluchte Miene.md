@@ -1,55 +1,74 @@
 SCs auf lvl 7: Zaza, Mörp, Limaya, Gaven, Ansker, Trixi, Srisira, Pauley
 
-=> Gruppenlevel 9
+=> Gruppenstufe 9
 
 Aktuell befindet sich die Gruppe in den [gequälten Landen](http://forgottenrealms.wikia.com/wiki/Tortured_Land) bei einem verlassenen Turm, der einem Zauberer gehört hatte. 
 
-# Die Schriftrollen
-Während sich die Gruppe nach dem Kampf gegen Varia Kylmä ausruht besteigt Ansker erneut den Turm, um weiter nach interessanten Büchern zu stöbern. Er findet dort eine Schriftrolle mit einem Rezept für eine *starke Heilsalbe*. Diese nimmt er für Srisira mit. Beim weiteren Stöbern stößt er auf ein Tagebuch mit der Aufschrift *"Abschlussbericht über die Vorkommnisse in der Zwergenmiene 'Heulender Wind'"*.
-Er bringt diese Funde runter zu einen Kameraden und gemeinsam schauen sie sich die Schriftstücke an.
-# Rezept starke Heilsalbe
-[http://paizo.com/products/btpy7nyk?Alchemy-Herbalists]
-[http://www.realmshelps.net/magic/items/alchemy.shtml]
-[http://www.magia-metachemica.net/uploads/1/0/6/2/10624795/alchemy_herbalists_bastion_press.pdf]
+# Ansker
+Während sich die Gruppe nach dem Kampf gegen Varia Kylmä ausruht besteigt Ansker erneut den Turm, um weiter nach interessanten Büchern zu stöbern. Er findet dort ein in zwergisch verfasstes Tagebuch mit der Aufschrift *"Abschlussbericht über die Vorkommnisse in der Zwergenmiene 'Heulender Wind'"*. 
+
+Er nimmt es an sich und geht wieder runter. Dort setzt er sich mit ans Lagerfeuer und fängt an das Buch zu studieren.
 
 # Meelay
-Unterdessen beobachten draußen einzelne Gruppenmitglieder in wenigen hundert Metern Entfernung einen Lichtblitz und eine Figur, die auftaucht, umkippt und auf dem Boden liegen bleibt. die Gruppe findet dort eine benommene Meelay vor, die scheinbar bei einigen Zauberern in <da frag ich noch Sophie> durch ihre "Informationsbeschaffung" in Ungnade gefallen ist und kurzerhand als Bestrafung weggezaubert wurde.
+Unterdessen beobachten draußen einzelne Gruppenmitglieder in wenigen hundert Metern Entfernung einen Lichtblitz und eine Figur, die auftaucht, umkippt und auf dem Boden liegen bleibt. Die Gruppe findet dort eine benommene Meelay vor, die scheinbar bei einigen Zauberern in <da frag ich noch Sophie> durch ihre "Informationsbeschaffung" in Ungnade gefallen ist und kurzerhand als Bestrafung weggezaubert wurde.
 
-# Abschlussbericht über die Vorkommnisse in der Zwergenmiene 'Heulender Wind'
-Abschrift aus den Originaldokumenten im Rahmen der Wissenserhaltung. Zur besseren Einordnung wurden die Daten auf die aktuelle Zeitrechnung umgerechnet. Ansonsten wurde der Originalwortlaut beibehalten. Der ursprüngliche Autor der Dokumentation ist nur unleserlich in dem Schriftstück erhalten gebliben scheinbar ein gewisser Yurdal, Yurdak oder Yurgak
-_Bofnalgrim im Jahr 327 DR Chronist in der Bibliothek zu Dalfik_
+Die Zauberer waren so erzürnt, weil sie einige Schriften aus ihrer Bibliothek "ausleihen" wollte. Im Zorn über diese Tat haben die Zauberer gleich kurzen Prozess gemacht und sie wegteleportiert, aber gar nicht ihren Rucksack durchsucht, in dem sich schon einige Beutestücke befanden:
+* Notizsammlung "Gifte für jedermann"
+* kleiner Ledereinband "Traditionelle Alchemie"
+* rotes Büchlein "Abhandlungen zu den vergeblichen Versuchen den Schatz des Ruchlosen Trios zu bergen und warum jeder weitere Versuch ihn zu finden zum scheitern veurteilt ist"
+* dicker Wälzer "Chronik der magischen Schule der roten Zauberer von Tay"
 
+Ob sie von diesen Funden ihren Kameraden erzählt, entscheidet sie für sich.
 
-Dies sind meine Berichte zu den Vorkomnissen in der Mine 'Heulender Wind'. Gezeichnet: Yurd__, Vorabeiter
+# Die überfallene Karawane
+Am nächsten Tag entschließt sich die Gruppe aufzubrechen. Am frühen Nachmittag sieht sie in einiger Entfernung eine Karawane bestehend aus zwei Wagen, die mit Pferden gezogen werden. Aus Süden haben sich eine Hand voll Reiter genähert. Kampfgeräusche sind zu vernehmen. Befor die Gruppe die Karwahne erreicht sieht sie, wie die Reiter nach Süden eilen.
 
-Vor zwei Jahren stießen unsere Minenkundschafter auf eine verlassene Bärenhöhle in dem Gebirge, welches die gequälten Lande und den Ritt von einander trennt. Sie trafen dort schon in der Höhle selbst auf Silbererzadern und richteten dort eine neue Mine ein. Nach zwei Jahren arbeiten mittlerweile 126 Bergarbeiter in 3 Schichten rund um die Uhr an dem nach Süden gewandten Hauptstollen, der Bereits 965 Fuß in den Berg hinneinführt und zwei Nebenstollen - einer nach Ostern, der andere nach Westen gewandt. Die Wochentliche Erzleistung beträgt 4 Tonnen Roherz welches ein erstaunlich hohen Silberanteil enthält und so einem Wochenertrag von 80kg Silber ausmacht.
+Bei der Karawane angekommen sehen sie zwei leicht verwundete junge Männer, die sich schützend vor den Planwagen aufstellen. Hinter ihnen liegt eine Person auf dem boden scheinbar stark verletzt. Nachdem die Helden den Männern glaubhaft machen können, dass sie helfen wollen (SG15 Diplomatie), kommen noch weitere Personen aus den Wagen hervor:
+* **Flann** einer der leicht verwundeten Männer (23)
+* **Finvel** der zweite leicht verwundete Mann (23)
+* **Caolan** der schwer verwundete Mann auf dem Boden (27)
+* **Salbatore** der Familienvater (52)
+* **Niam** die Mutter (49)
+* **Lassarina** die kleine Schwester (4)
+* fehlend **Cresida** die große Schwester (21)
 
-**Flamerule 14, -1694 DR** Heute stießen die Arbeiter im Osttunnel auf einen Hohlraum. Dieser öffnete sich so weit, dass er nicht mit einer Fackel ausgeleuchtet werden konnte und sich weder Boden noch Rückwand ausmachen ließ. Einer der Arbeiter - Jardal - stürzte in die Höhle und war durch anrufen nicht mehr auszumachen.
-Wir haben versucht die Tiefe der Höhle auszuloten. Nach 120 Fuß wurde uns das Lot aus der Hand gerissen. Wir wissen nicht von wem oder was, oder ob wir überhaupt den Grund bereits erreicht hatten.
+Salbatore ergreift das Wort und erklärt, dass sie auf dem Weg vom großen Gletscher nach Melvaunt unterwegs seien um die Wintervorräte für ihren Clan zu besorgen. Es handelt sich bei der Familie um Angehörige der Iulutiun die Handel mit nördlichen Ländern betreiben.
 
-**Flamerule 17, -1694 DR** 
+Bei dem Überfall wurden sie unerwartet angegriffen und ihrer ältesten Tochter Cresida beraupt. Er fleht die Gruppe an, die Verfolgung aufzunehmen. Sie können mit den Wagen die Gruppe nicht verfolgen und die Söhne müssen dringend diese Bewachen. Auch müssen sie unbedingt ihren Weg fortsetzen um vor dem großen Frost in ihre Region zurückzukommen.
 
-....
+Sie bitten die Helden Cresida zu befreien und zur nächsten Stadt zu bringen, damit sie sich in Ilinvur, Phlan oder Melvaunt treffen können.
 
-# 1 + 1
-Als Ansker von der Mine berichtet erinnert sich Meelay an eine Aufzeichnung, die die Zauberer in ihrem Beutel verloren haben und auch von einem alten Höhlensystem zwischen der gequälten Landen und dem Ritt berichtet, in dem damals der Flint Shamane das Ruchlose Trio (Trio Nefarious) beschworen haben soll.  So soll sich in der Höhle, deren Eingang unbekannt ist, nicht nur das gesammelte Wissen der Flint Shamanen befinden, sondern auch ein großer Teil der Beute, welche damals beim Ausbruch des Weeping War noch zusammengetragen wurde, bevor dieser sich in eine reinen Vernichtungskrieg gewandelt hatte.
+# Angriff auf das Ogerlager
+Die helden beschließen die Verfolgung aufzunehmen und folgen den Spuren der Reiter bis ins Vorgebirge. Dort nähern sie sich am zweiten Abend den Bergausläufern und sehen aus der Ferne eine Lagerfeuer, das scheinbar mitten im Lager der Oger vor einem Höhleneingang angelegt ist.
+
+In dem Lager befinden sich fünf Pferde in einem Gatter und man sieht zwei Oger am Lagerfeuer. Ein weiterer Oger schlendert durch das Lager. Der vierte Orc verschwindet in der Höhle und wird etwas später wieder rauskommen. Vom fünften Oger und Cresida ist nichts zu sehen.
+
+![oger picture](http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG199.jpg)
+
+[Oger](http://www.d20srd.org/srd/monsters/ogre.htm)-Barbar (2) mit HG 5 => 4 Gegner ergeben BS 9 (525XP + 4500gp)
 
 # Die Mine
-[Ettin](http://www.d20srd.org/srd/monsters/ettin.htm)
-![Ettin picture](http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG107.jpg)
+Nachdem die Helden die vier Oger besiegt haben, wollen sie in der Höhle nach Cresida suchen. Die Höhle ist tatsächlich eine verlassene Zwergenmine. der Hauptschacht führt nach Süden. auf den ersten hundert Metern führen immer wieder kleine kurze Schächte zu kleinen Seitenräumen in dem die Oger Vorräte und Beute gelagert haben.
 
-CR 6 => 3 Ettins (525XP + 4500gp)
+Etwas tiefer in dem Südschacht sehen sie in der Ferne ein Licht schimmern und vier Stimmen, die miteinander reden. Ab und zu hört man ein Frauengeschrei.
+
+![ettin picture](http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG107.jpg)
+
+[Ettin](http://www.d20srd.org/srd/monsters/ettin.htm) mit HG 6 => 3 Gegner ergeben BS 9 (525XP + 4500gp)
+
+Nachdem die beiden Ettins getötet und Cresida befreit wurde, dankt diese den Helden aufrichtig. In dem Moment vernehmen die Helden eine Detonation aus richtung des Ausgangs. Eine Staubwolke schiebt sich den Helden entgegen. Als der Staub sich gelegt hat, sehen die Helden, dass kurz vor dem Ausgang eine Detonation den Schacht zum Einsturz gebracht hat. Ein Oger liegt unter den Steintrümmern begraben. Scheinbar hat er die Explosion ausgelöst.
 
 # Zwergenschloß
-(mechan. Rätsel)
 
-Das Zwergenschloss fällt zusammen, die Helden müssen quer durch die Höhle einen neuen Ausgang zum Ritt finden
+Auf der Suche nach einem anderen Ausgang untersuchen die Helden den Mienenraum und entdecken an einer Wand eine altes verrostetes Stahltor. Auf dem steht in abgewetzten zwergischen Runen "Betreten Verboten - gez. Yurdak". Das Schloss wird von Meelay geöffnet (SG15) und die Helden betreten Durchgang der am Ende von einer Wand versperrt ist.
 
-# Spinenhöhle
-[Drider](http://www.d20srd.org/srd/monsters/drider.htm)
-![Drider picture](http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG89.jpg)
+**TODO**: Die Wand ist durch ein mechanisches Rätselgesichert und Fährt bei Lösung herrunter. Er gibt damit den Weg auf den restlichen Schacht frei, an derem Ende der Durchbruch zu Spinnenhöhle offen ist. In Anskers Buch ["Abschlussbericht über die Vorkommnisse in der Zwergenmiene 'Heulender Wind'"](Abschlussbericht Zwergenmine Heulender Wind.md) versteckt sich die Erklärung zum Rätsel.
 
-CR 7 => 2 Drider (525XP + 4500gp)
+# Spinnenhöhle
+
+![drider picture](http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG89.jpg)
+
+[drider](http://www.d20srd.org/srd/monsters/drider.htm) mit HG 7 => 2 Gegner ergeben BS 9 (525XP + 4500gp)
 
 # TODO: Höhle - Verlauf, Fauna, Rätsel, Schätze, Ausgang
 
