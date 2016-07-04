@@ -4,19 +4,17 @@ SCs auf lvl 7: Zaza, Mörp, Limaya, Gaven, Ansker, Trixi, Srisira, Pauley
 
 Aktuell befindet sich die Gruppe in den [gequälten Landen](http://forgottenrealms.wikia.com/wiki/Tortured_Land) bei einem verlassenen Turm, der einem Zauberer gehört hatte. 
 
-# Ansker
-Während sich die Gruppe nach dem Kampf gegen Varia Kylmä ausruht besteigt Ansker erneut den Turm, um weiter nach interessanten Büchern zu stöbern. Er findet dort ein in zwergisch verfasstes Tagebuch mit der Aufschrift *"Abschlussbericht über die Vorkommnisse in der Zwergenmiene 'Heulender Wind'"*. 
-
-Er nimmt es an sich und geht wieder runter. Dort setzt er sich mit ans Lagerfeuer und fängt an das Buch zu studieren.
-
 # Meelay
 Unterdessen beobachten draußen einzelne Gruppenmitglieder in wenigen hundert Metern Entfernung einen Lichtblitz und eine Figur, die auftaucht, umkippt und auf dem Boden liegen bleibt. Die Gruppe findet dort eine benommene Meelay vor, die scheinbar bei einigen Zauberern in <da frag ich noch Sophie> durch ihre "Informationsbeschaffung" in Ungnade gefallen ist und kurzerhand als Bestrafung weggezaubert wurde.
 
-Die Zauberer waren so erzürnt, weil sie einige Schriften aus ihrer Bibliothek "ausleihen" wollte. Im Zorn über diese Tat haben die Zauberer gleich kurzen Prozess gemacht und sie wegteleportiert, aber gar nicht ihren Rucksack durchsucht, in dem sich schon einige Beutestücke befanden:
+Die Zauberer waren so erzürnt, weil sie einige Schriften aus ihrer Bibliothek "ausleihen" wollte. Im Zorn über diese Tat haben die Zauberer gleich kurzen Prozess gemacht und sie wegteleportiert, aber gar nicht ihren Rucksack durchsucht, in dem sich bereits ein kleines Paket in Leder eingeschlagen befindet.
+
+Sobald sie das Paket öffnet, findet sie folgende Bücher:
 * Notizsammlung "Gifte für jedermann"
 * kleiner Ledereinband "Traditionelle Alchemie"
 * rotes Büchlein "Abhandlungen zu den vergeblichen Versuchen den Schatz des Ruchlosen Trios zu bergen und warum jeder weitere Versuch ihn zu finden zum scheitern veurteilt ist"
 * dicker Wälzer "Chronik der magischen Schule der roten Zauberer von Tay"
+* kleines Heft "Abschlussbericht über die Vorkommnisse in der Zwergenmiene 'Heulender Wind'"
 
 Ob sie von diesen Funden ihren Kameraden erzählt, entscheidet sie für sich.
 
