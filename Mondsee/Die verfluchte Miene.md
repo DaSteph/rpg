@@ -5,7 +5,7 @@ SCs auf lvl 7: Zaza, Mörp, Limaya, Gaven, Ansker, Trixi, Srisira, Pauley
 Aktuell befindet sich die Gruppe in den [gequälten Landen](http://forgottenrealms.wikia.com/wiki/Tortured_Land) bei einem verlassenen Turm, der einem Zauberer gehört hatte. 
 
 # Meelay
-Unterdessen beobachten draußen einzelne Gruppenmitglieder in wenigen hundert Metern Entfernung einen Lichtblitz und eine Figur, die auftaucht, umkippt und auf dem Boden liegen bleibt. Die Gruppe findet dort eine benommene Meelay vor, die scheinbar bei einigen Zauberern in <da frag ich noch Sophie> durch ihre "Informationsbeschaffung" in Ungnade gefallen ist und kurzerhand als Bestrafung weggezaubert wurde.
+Einzelne Gruppenmitglieder beobachten draußen in wenigen hundert Metern Entfernung einen Lichtblitz und eine Figur, die auftaucht, umkippt und auf dem Boden liegen bleibt. Die Gruppe findet dort eine benommene Meelay vor, die scheinbar bei einigen Zauberern in <da frag ich noch Sophie> durch ihre "Informationsbeschaffung" in Ungnade gefallen ist und kurzerhand als Bestrafung weggezaubert wurde.
 
 Die Zauberer waren so erzürnt, weil sie einige Schriften aus ihrer Bibliothek "ausleihen" wollte. Im Zorn über diese Tat haben die Zauberer gleich kurzen Prozess gemacht und sie wegteleportiert, aber gar nicht ihren Rucksack durchsucht, in dem sich bereits ein kleines Paket in Leder eingeschlagen befindet.
 
@@ -18,26 +18,15 @@ Sobald sie das Paket öffnet, findet sie folgende Bücher:
 
 Ob sie von diesen Funden ihren Kameraden erzählt, entscheidet sie für sich.
 
-# Die überfallene Karawane
-Am nächsten Tag entschließt sich die Gruppe aufzubrechen. Am frühen Nachmittag sieht sie in einiger Entfernung eine Karawane bestehend aus zwei Wagen, die mit Pferden gezogen werden. Aus Süden haben sich eine Hand voll Reiter genähert. Kampfgeräusche sind zu vernehmen. Befor die Gruppe die Karwahne erreicht sieht sie, wie die Reiter nach Süden eilen.
+# Die überfallenen Händler
+Am nächsten Tag entschließt sich die Gruppe aufzubrechen. Am frühen Nachmittag sieht sie in einiger Entfernung einen Wagen, der mit Pferden gezogen wird. Aus Süden haben sich eine Hand voll Reiter genähert. Kampfgeräusche sind zu vernehmen. Befor die Gruppe den Wagen erreicht sieht sie, wie die Reiter nach Süden eilen.
 
-Bei der Karawane angekommen sehen sie zwei leicht verwundete junge Männer, die sich schützend vor den Planwagen aufstellen. Hinter ihnen liegt eine Person auf dem boden scheinbar stark verletzt. Nachdem die Helden den Männern glaubhaft machen können, dass sie helfen wollen (SG15 Diplomatie), kommen noch weitere Personen aus den Wagen hervor:
-* **Flann** einer der leicht verwundeten Männer (23)
-* **Finvel** der zweite leicht verwundete Mann (23)
-* **Caolan** der schwer verwundete Mann auf dem Boden (27)
-* **Salbatore** der Familienvater (52)
-* **Niam** die Mutter (49)
-* **Lassarina** die kleine Schwester (4)
-* fehlend **Cresida** die große Schwester (21)
+Dort angekommen bietet sich den Helden ein Anblick des Grauens. Auf dem Boden liegt ein älteres Menschenpaar stark verwundet. Der Mann ist augenscheinlich tot. Die Frau röchelt noch kurz und als die Abenteurer sich nähern stöhnt sie noch flehentlich: "Die Kinder. Sie haben sie genommen. Ihr müsst sie Retten." Auf eine Befragung hinsichtlich der Reiter sagt sie nur mit letzter Kraft "Tiere, keine Menschen. Oger!" Sie verstirbt.
 
-Salbatore ergreift das Wort und erklärt, dass sie auf dem Weg vom großen Gletscher nach Melvaunt unterwegs seien um die Wintervorräte für ihren Clan zu besorgen. Es handelt sich bei der Familie um Angehörige der Iulutiun die Handel mit nördlichen Ländern betreiben.
-
-Bei dem Überfall wurden sie unerwartet angegriffen und ihrer ältesten Tochter Cresida beraupt. Er fleht die Gruppe an, die Verfolgung aufzunehmen. Sie können mit den Wagen die Gruppe nicht verfolgen und die Söhne müssen dringend diese Bewachen. Auch müssen sie unbedingt ihren Weg fortsetzen um vor dem großen Frost in ihre Region zurückzukommen.
-
-Sie bitten die Helden Cresida zu befreien und zur nächsten Stadt zu bringen, damit sie sich in Ilinvur, Phlan oder Melvaunt treffen können.
+Bei den beiden handelte es sich um Händler der Ulutiun. Der Wagen - was davon übrig war - war beladen mit Fellen von Robben und anderen Gütern von dem Großen Gletscher. Es ist nicht unüblich, dass sie ihre Wintervorräte in Melvaunt aufstocken wollten.
 
 # Angriff auf das Ogerlager
-Die helden beschließen die Verfolgung aufzunehmen und folgen den Spuren der Reiter bis ins Vorgebirge. Dort nähern sie sich am zweiten Abend den Bergausläufern und sehen aus der Ferne eine Lagerfeuer, das scheinbar mitten im Lager der Oger vor einem Höhleneingang angelegt ist.
+Die Helden beschließen die Verfolgung aufzunehmen und folgen den Spuren der Reiter bis ins Vorgebirge. Dort nähern sie sich am zweiten Abend den Bergausläufern und sehen aus der Ferne eine Lagerfeuer, das scheinbar mitten im Lager der Oger vor einem Höhleneingang angelegt ist.
 
 In dem Lager befinden sich fünf Pferde in einem Gatter und man sieht zwei Oger am Lagerfeuer. Ein weiterer Oger schlendert durch das Lager. Der vierte Orc verschwindet in der Höhle und wird etwas später wieder rauskommen. Vom fünften Oger und Cresida ist nichts zu sehen.
 
