@@ -1,6 +1,6 @@
-SCs auf lvl 7: Zaza, Mörp, Limaya, Gaven, Ansker, Trixi, Srisira, Pauley
+SCs auf lvl 7: Zaza, Mörp, Limaya, Gaven, Srisira, Pauley, Meelay + inaktiv Ansker, Trixi
 
-=> Gruppenstufe 9
+=> Gruppenstufe 8,6
 
 Aktuell befindet sich die Gruppe in den [gequälten Landen](http://forgottenrealms.wikia.com/wiki/Tortured_Land) bei einem verlassenen Turm, der einem Zauberer gehört hatte. 
 
@@ -10,11 +10,9 @@ Einzelne Gruppenmitglieder beobachten draußen in wenigen hundert Metern Entfern
 Die Zauberer waren so erzürnt, weil sie einige Schriften aus ihrer Bibliothek "ausleihen" wollte. Im Zorn über diese Tat haben die Zauberer gleich kurzen Prozess gemacht und sie wegteleportiert, aber gar nicht ihren Rucksack durchsucht, in dem sich bereits ein kleines Paket in Leder eingeschlagen befindet.
 
 Sobald sie das Paket öffnet, findet sie folgende Bücher:
-* Notizsammlung "Gifte für jedermann"
-* kleiner Ledereinband "Traditionelle Alchemie"
-* rotes Büchlein "Abhandlungen zu den vergeblichen Versuchen den Schatz des Ruchlosen Trios zu bergen und warum jeder weitere Versuch ihn zu finden zum scheitern veurteilt ist"
-* dicker Wälzer "Chronik der magischen Schule der roten Zauberer von Tay"
-* kleines Heft "Abschlussbericht über die Vorkommnisse in der Zwergenmiene 'Heulender Wind'"
+* [Abschiedsbrief einer besorgten Mutter](Schatz des Ruchlosen Trios/Hinweis - Abschiedsbrief.md)
+* [Abhandlungen zu den vergeblichen Versuchen den Schatz des Ruchlosen Trios zu bergen und warum jeder weitere Versuch ihn zu finden zum scheitern veurteilt ist](Schatz des Ruchlosen Trios/Hinweis - Abhandlungen.md)
+* "Chronik der magischen Schule der roten Zauberer von Tay - Band III" (fake)
 
 Ob sie von diesen Funden ihren Kameraden erzählt, entscheidet sie für sich.
 
@@ -28,34 +26,44 @@ Bei den beiden handelte es sich um Händler der Ulutiun. Der Wagen - was davon �
 # Angriff auf das Ogerlager
 Die Helden beschließen die Verfolgung aufzunehmen und folgen den Spuren der Reiter bis ins Vorgebirge. Dort nähern sie sich am zweiten Abend den Bergausläufern und sehen aus der Ferne eine Lagerfeuer, das scheinbar mitten im Lager der Oger vor einem Höhleneingang angelegt ist.
 
-In dem Lager befinden sich fünf Pferde in einem Gatter und man sieht zwei Oger am Lagerfeuer. Ein weiterer Oger schlendert durch das Lager. Der vierte Orc verschwindet in der Höhle und wird etwas später wieder rauskommen. Vom fünften Oger und Cresida ist nichts zu sehen.
+In dem Lager befinden sich drei Pferde in einem Gatter und man sieht zwei Oger am Lagerfeuer. Der dritte Oger verschwindet in der Höhle und wird etwas später wieder rauskommen. Von irgendwelchen Kindern ist keine Spur auszumachen.
 
 ![oger picture](http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG199.jpg)
 
-[Oger](http://www.d20srd.org/srd/monsters/ogre.htm)-Barbar (2) mit HG 5 => 4 Gegner ergeben BS 9 (525XP + 4500gp)
+[Oger](http://www.d20srd.org/srd/monsters/ogre.htm)-Barbar (2) mit HG 5 => 3 Gegner ergeben BS 7 (450XP + 3600gp)
 
 # Die Mine
-Nachdem die Helden die vier Oger besiegt haben, wollen sie in der Höhle nach Cresida suchen. Die Höhle ist tatsächlich eine verlassene Zwergenmine. der Hauptschacht führt nach Süden. auf den ersten hundert Metern führen immer wieder kleine kurze Schächte zu kleinen Seitenräumen in dem die Oger Vorräte und Beute gelagert haben.
+Nachdem die Helden die vier Oger besiegt haben, wollen sie in der Höhle nach den Kindern suchen. Die Höhle ist tatsächlich eine verlassene Zwergenmine. Der Hauptschacht führt nach Süden. Auf den ersten hundert Metern führen immer wieder kleine kurze Schächte zu kleinen Seitenräumen in dem die Oger Vorräte und Beute gelagert haben.
 
-Etwas tiefer in dem Südschacht sehen sie in der Ferne ein Licht schimmern und vier Stimmen, die miteinander reden. Ab und zu hört man ein Frauengeschrei.
+Etwas tiefer in dem Südschacht sehen sie in der Ferne ein Licht schimmern und zwei Stimmen, die miteinander reden. Ab und zu hört man Kindergeschrei gefolgt von bestialischem Lachen.
+
+Die Helden erspähen einen großen Raum in dem sich ein riesieger Ettin befinden. Zwei Kinder hängen kopfüber an Seilen von der Decke. Im Raum verstreut liegen Knochen - keine Tiere. In der Mitte des Raumes ist ein großer Tisch, auf dem ein Hackepeil im Holz steckt. Überall ist geronnenes Blut zu sehen.
+An der Seite hängt ein riesiger Topf über einem Feuer. Der Ettin will gleich das Fleisch zubereiten.
 
 ![ettin picture](http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG107.jpg)
 
-[Ettin](http://www.d20srd.org/srd/monsters/ettin.htm) mit HG 6 => 3 Gegner ergeben BS 9 (525XP + 4500gp)
+[Ettin](http://www.d20srd.org/srd/monsters/ettin.htm) Barbar (3) mit HG (6+3) => 1 Gegner ergeben BS 9 (600XP + 4500gp)
 
-Nachdem die beiden Ettins getötet und Cresida befreit wurde, dankt diese den Helden aufrichtig. In dem Moment vernehmen die Helden eine Detonation aus richtung des Ausgangs. Eine Staubwolke schiebt sich den Helden entgegen. Als der Staub sich gelegt hat, sehen die Helden, dass kurz vor dem Ausgang eine Detonation den Schacht zum Einsturz gebracht hat. Ein Oger liegt unter den Steintrümmern begraben. Scheinbar hat er die Explosion ausgelöst.
+Nachdem der Ettin getötet und die Kinder befreit wurde, danken diese den Helden aufrichtig. Es handelt sich um **Flann** und **Finvel**, zwei Zwillingen die gerade 12 Jahre alt sind. Ihre Eltern sind im Sommer nach Melvaunt aufgebrochen, sie blieben noch im Norden um dann mit Ihrer Tante und dem Onkel hinterher zu reisen. Als sie von den Reitern überfallen wurden, mussten sie mit ansehen, wie diese abgeschlachtet wurden. 
+Die Oger mumelten etwas von *Schlüssel, Schlüssel* und *junges Fleisch, Abendbrot*. Einer der Oger hat von dem Onkel ein Schlüsselbund genommen. Zuerst hatte sich der Ettin rieig gefreut als er die Schlüssel von dem Oger bekam. Er ging damit weiter in die Mine hinnein, kam dann aber sehr sauer wieder und warf den Schlüsselbund auf einen Haufen von Schlüsseln an einer Ecke im Raum. Danach fing er ann den Kessel mit Wasser zu füllen und über das Feuer zu hängen.
 
-# Zwergenschloß
+Sind die Helden nicht interessiert an den Schlüsseln, dann geht es weiter mit ["Die Söldner des Vaegould Clans"](Die Söldner des Vaegould Clans.md) wenn sie über [den Ritt](http://forgottenrealms.wikia.com/wiki/The_Ride) nach Süden in die Zivilisation weiterziehen wollen. 
 
-Auf der Suche nach einem anderen Ausgang untersuchen die Helden den Mienenraum und entdecken an einer Wand eine altes verrostetes Stahltor. Auf dem steht in abgewetzten zwergischen Runen "Betreten Verboten - gez. Yurdak". Das Schloss wird von Meelay geöffnet (SG15) und die Helden betreten Durchgang der am Ende von einer Wand versperrt ist.
+# Der verschlossene Schacht
 
-**TODO**: Die Wand ist durch ein mechanisches Rätselgesichert und Fährt bei Lösung herrunter. Er gibt damit den Weg auf den restlichen Schacht frei, an derem Ende der Durchbruch zu Spinnenhöhle offen ist. In Anskers Buch ["Abschlussbericht über die Vorkommnisse in der Zwergenmiene 'Heulender Wind'"](Abschlussbericht Zwergenmine Heulender Wind.md) versteckt sich die Erklärung zum Rätsel.
+Die Helden untersuchen die Mine und finden in einem Seitengang einen Minenschacht der nach wenigen Metern durch eine uralte schwere eiserne Tür versperrt ist. Man sieht deutlich Spuren an der Tür, die von Versuchen her rühren, die Tür gewaltsam zu öffnen. Tatsächlich ist das Schloß noch zugägnlich und kann von Meelay mit einem Dietrich geöffnet werden SG 20. 
+
+Nach einigem mühseligen Versuchen bekomme sie die Tür aufgestemmt. Der Minenschacht führt weiter direkt hinter der Tür liegt aber eine uralte Leiche mit einem kleinen Notizbuch in den Skelettfingern: ["Abschlussbericht über die Vorkommnisse in der Zwergenmiene 'Heulender Wind'"](Abschlussbericht Zwergenmine Heulender Wind.md)
+
+Der Schacht führt dreißig Meter tief in den Berg und trifft dann auf eine glatte Felswand. Untersucht man diese näher, so sieht man, dass sie den Tunnel sauber abschließt und ein Schiebeschloss enthält. Nachdem das Rätsel gelöst wurde, rauscht die Fellswand einfach herunter und bleibt mit einem gewaltigen Rumps so stehen, dass die obere Kante die Schwelle für einen Durchgang bildet.
+
+Die Helden erkunden den Schacht weiter. Hier sieht der Schacht noch sehr roh aus, ist noch nicht richtig abgestützt. Am Ende sehen sie einen Durchbruch.
 
 # Spinnenhöhle
 
 ![drider picture](http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG89.jpg)
 
-[drider](http://www.d20srd.org/srd/monsters/drider.htm) mit HG 7 => 2 Gegner ergeben BS 9 (525XP + 4500gp)
+[drider](http://www.d20srd.org/srd/monsters/drider.htm) mit HG 7 => 2 Gegner ergeben BS 9 (600XP + 4500gp)
 
 # TODO: Höhle - Verlauf, Fauna, Rätsel, Schätze, Ausgang
 
