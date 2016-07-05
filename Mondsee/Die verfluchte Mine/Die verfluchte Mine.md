@@ -10,8 +10,8 @@ Einzelne Gruppenmitglieder beobachten draußen in wenigen hundert Metern Entfern
 Die Zauberer waren so erzürnt, weil sie einige Schriften aus ihrer Bibliothek "ausleihen" wollte. Im Zorn über diese Tat haben die Zauberer gleich kurzen Prozess gemacht und sie wegteleportiert, aber gar nicht ihren Rucksack durchsucht, in dem sich bereits ein kleines Paket in Leder eingeschlagen befindet.
 
 Sobald sie das Paket öffnet, findet sie folgende Bücher:
-* [Abschiedsbrief einer besorgten Mutter](Schatz des Ruchlosen Trios/Hinweis - Abschiedsbrief.md)
-* [Abhandlungen zu den vergeblichen Versuchen den Schatz des Ruchlosen Trios zu bergen und warum jeder weitere Versuch ihn zu finden zum scheitern veurteilt ist](Schatz des Ruchlosen Trios/Hinweis - Abhandlungen.md)
+* [Abschiedsbrief einer besorgten Mutter](../Schatz des Ruchlosen Trios/Hinweis - Abschiedsbrief.md)
+* [Abhandlungen zu den vergeblichen Versuchen den Schatz des Ruchlosen Trios zu bergen und warum jeder weitere Versuch ihn zu finden zum scheitern veurteilt ist](../Schatz des Ruchlosen Trios/Hinweis - Abhandlungen.md)
 * "Chronik der magischen Schule der roten Zauberer von Tay - Band III" (fake)
 
 Ob sie von diesen Funden ihren Kameraden erzählt, entscheidet sie für sich.
@@ -44,10 +44,23 @@ An der Seite hängt ein riesiger Topf über einem Feuer. Der Ettin will gleich d
 
 [Ettin](http://www.d20srd.org/srd/monsters/ettin.htm) Barbar (3) mit HG (6+3) => 1 Gegner ergeben BS 9 (600XP + 4500gp)
 
+> Ettin Barbarian level 2 (skill points 4) No Animal skills
+> hp 99 (10d8+2d12+36), CR 8 XP 4800, Chaotic Evil Large Giant
+> Init +4 Speed 40 AC 19, Touch 9, flat footed 19 ( Hide, Shield, none) 
+> (+7 Natural, -1 size, +3 armor) 
+> Melee Base Attack 9 Grapple 21, Single Attack Morningstar +17 (2d6+8) or Javelin +8 (1d8+8)
+> Full Attack Morningstar +17/12 (2d6+8), Morningstar +17 (2d6+4) or Javelin +8/3 (1d8+8) range 30; Space 10ft.; Reach 10 
+> SA , SQ Low-light Vision, Other Superior two weapon fighting, Fast movement 10, Illiteracy, Uncanny Dodge
+> Fort +13, Ref +3, Will +9, 
+> Str 27, Dex 10, Con 17, Int 6, Wis 10, Cha 11
+> Skills Climb 6, Intimidate 1, Jump 6, Listen 10, Search 1, Spot 10.5, Survival 0, Swim 2 Feats: Alertness, Armour Prof Light, Armour Prof Medium, Improved Initiative, Iron Will, Martial Weap Prof, Power Attack, Shield Proficiency, Simple Weapon Proficiency, Superior Two-Weapon Fighting, Weapon Focus; Languages Giant, Goblin, Orc
+> ITEMS: Periapt of wisdom (+2) +2 Wis, Cloak of resistance (+2) +2 saves, Wand of Mirror image -, 
+
+
 Nachdem der Ettin getötet und die Kinder befreit wurde, danken diese den Helden aufrichtig. Es handelt sich um **Flann** und **Finvel**, zwei Zwillingen die gerade 12 Jahre alt sind. Ihre Eltern sind im Sommer nach Melvaunt aufgebrochen, sie blieben noch im Norden um dann mit Ihrer Tante und dem Onkel hinterher zu reisen. Als sie von den Reitern überfallen wurden, mussten sie mit ansehen, wie diese abgeschlachtet wurden. 
 Die Oger mumelten etwas von *Schlüssel, Schlüssel* und *junges Fleisch, Abendbrot*. Einer der Oger hat von dem Onkel ein Schlüsselbund genommen. Zuerst hatte sich der Ettin rieig gefreut als er die Schlüssel von dem Oger bekam. Er ging damit weiter in die Mine hinnein, kam dann aber sehr sauer wieder und warf den Schlüsselbund auf einen Haufen von Schlüsseln an einer Ecke im Raum. Danach fing er ann den Kessel mit Wasser zu füllen und über das Feuer zu hängen.
 
-Sind die Helden nicht interessiert an den Schlüsseln, dann geht es weiter mit ["Die Söldner des Vaegould Clans"](Die Söldner des Vaegould Clans.md) wenn sie über [den Ritt](http://forgottenrealms.wikia.com/wiki/The_Ride) nach Süden in die Zivilisation weiterziehen wollen. 
+Sind die Helden nicht interessiert an den Schlüsseln, dann geht es weiter mit ["Die Söldner des Vaegould Clans"](../Die Söldner des Vaegould Clans/Die Söldner des Vaegould Clans.md) wenn sie über [den Ritt](http://forgottenrealms.wikia.com/wiki/The_Ride) nach Süden in die Zivilisation weiterziehen wollen. 
 
 # Der verschlossene Schacht
 
@@ -61,9 +74,7 @@ Die Helden erkunden den Schacht weiter. Hier sieht der Schacht noch sehr roh aus
 
 # Spinnenhöhle
 
-![drider picture](http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG89.jpg)
 
-[drider](http://www.d20srd.org/srd/monsters/drider.htm) mit HG 7 => 2 Gegner ergeben BS 9 (600XP + 4500gp)
 
 # TODO: Höhle - Verlauf, Fauna, Rätsel, Schätze, Ausgang
 
