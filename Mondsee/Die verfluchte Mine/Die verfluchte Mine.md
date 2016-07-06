@@ -42,7 +42,7 @@ An der Seite hängt ein riesiger Topf über einem Feuer. Der Ettin will gleich d
 
 ![ettin picture](http://www.wizards.com/dnd/images/MM35_gallery/MM35_PG107.jpg)
 
-[Ettin](http://www.d20srd.org/srd/monsters/ettin.htm) Barbar (3) mit HG (6+3) => 1 Gegner ergeben BS 9 (600XP + 4500gp)
+[Ettin](http://www.d20srd.org/srd/monsters/ettin.htm) Barbar (3) mit HG (6+3) => 1 Gegner ergibt BS 9 (600XP + 4500gp)
 
 > Ettin Barbarian level 2 (skill points 4) No Animal skills
 > hp 99 (10d8+2d12+36), CR 8 XP 4800, Chaotic Evil Large Giant
@@ -66,7 +66,7 @@ Sind die Helden nicht interessiert an den Schlüsseln, dann geht es weiter mit [
 
 Die Helden untersuchen die Mine und finden in einem Seitengang einen Minenschacht der nach wenigen Metern durch eine uralte schwere eiserne Tür versperrt ist. Man sieht deutlich Spuren an der Tür, die von Versuchen her rühren, die Tür gewaltsam zu öffnen. Tatsächlich ist das Schloß noch zugägnlich und kann von Meelay mit einem Dietrich geöffnet werden SG 20. 
 
-Nach einigem mühseligen Versuchen bekomme sie die Tür aufgestemmt. Der Minenschacht führt weiter direkt hinter der Tür liegt aber eine uralte Leiche mit einem kleinen Notizbuch in den Skelettfingern: ["Abschlussbericht über die Vorkommnisse in der Zwergenmiene 'Heulender Wind'"](Abschlussbericht Zwergenmine Heulender Wind.md)
+Nach einigem mühseligen Versuchen bekomme sie die Tür aufgestemmt. Der Minenschacht führt weiter direkt hinter der Tür liegt aber eine uralte Leiche mit einem kleinen Notizbuch in den Skelettfingern: ["Vorarbieternotizen über die Vorkommnisse in der Zwergenmiene 'Heulender Wind'"](Vorarbieternotizen Zwergenmine Heulender Wind.md)
 
 Der Schacht führt dreißig Meter tief in den Berg und trifft dann auf eine glatte Felswand. Untersucht man diese näher, so sieht man, dass sie den Tunnel sauber abschließt und ein Schiebeschloss enthält. Nachdem das Rätsel gelöst wurde, rauscht die Fellswand einfach herunter und bleibt mit einem gewaltigen Rumps so stehen, dass die obere Kante die Schwelle für einen Durchgang bildet.
 
@@ -74,7 +74,21 @@ Die Helden erkunden den Schacht weiter. Hier sieht der Schacht noch sehr roh aus
 
 # Spinnenhöhle
 
+Die Gruppe leuchtet die Höhle aus und kann keine Gefahr erkennen. Sie loten selbst die Höhle aus und erreichen den Boden nach 63 Fuß. Als sie unten ankommen, schauen sie nach oben und sehen von der Decke herunterhängend mehrere eingesponnene Figuren. In dem Moment schleicht sich von hinten eine gigantische monströse Spinne an sie heran. 
 
+![spider picture](http://america.pink/images/3/0/6/7/0/5/0/en/2-monstrous-spider.jpg)
+
+[Monstrous Spider, Gargantuan](http://www.d20srd.org/srd/monsters/monstrousSpider.htm) HG 8
+
+Name Monstrous Spider, Gargantuan hp 104 (16d8+32), CR 8 XP 4800, Neutral Gargantuan Vermin Traits Vermin
+Init +3 Speed 30, climb 20ft. AC 19, Touch 9, flat footed 16 ( No Armour, Shield, none) 
+(+3 Dex, +10 Natural, -4 size) 
+Melee Base Attack 12 Grapple 31, Single Attack Bite +11 (2d8+10) or Web +11 (2d8)
+Full Attack Bite +11 (2d8+10) or Web +11 (2d8) range 10; Space 20ft.; Reach 15 
+SA Poison DC(20) 2d6 Str inital and secondary, Web DC(20) Can throw web 50ft range increment of 10 ft, Web DC(20) DC +4(racial bonus) can break on a str check (DC24) or escape artist(DC20), Web DC(20) web has 16hp and a DR of 5/-, SQ Darkvision 60, Other Hunting spiders have +10 jump +8 Spot, Other Web spinners have +8 hide +8 move silently when iin web, Traits Vermin, Tremorsense 60
+Fort +12, Ref +8, Will +5, 
+Str 25, Dex 17, Con 14, Int 0, Wis 10, Cha 2
+Skills Climb 15, Hide -5(Hide in web 3), Jump 7(Jump hunting spiders 17), Move Silently 3(Move Silently in web 11), Spot 4(Spot hunting spiders 12) Feats: Weapon Finesse; Languages 
 
 # TODO: Höhle - Verlauf, Fauna, Rätsel, Schätze, Ausgang
 
