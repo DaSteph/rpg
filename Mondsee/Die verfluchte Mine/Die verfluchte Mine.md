@@ -11,7 +11,7 @@ Die Zauberer waren so erzürnt, weil sie einige Schriften aus ihrer Bibliothek "
 
 Sobald sie das Paket öffnet, findet sie folgende Bücher:
 * [Abschiedsbrief einer besorgten Mutter](../Schatz des Ruchlosen Trios/Hinweis - Abschiedsbrief.md)
-* [Abhandlungen zu den vergeblichen Versuchen den Schatz des Ruchlosen Trios zu bergen und warum jeder weitere Versuch ihn zu finden zum scheitern veurteilt ist](../Schatz des Ruchlosen Trios/Hinweis - Abhandlungen.md)
+* [Abhandlung zu dem vergeblichen Versuch den Schatz des Ruchlosen Trios zu bergen](../Schatz des Ruchlosen Trios/Hinweis - Abhandlungen.md)
 * "Chronik der magischen Schule der roten Zauberer von Tay - Band III" (fake)
 
 Ob sie von diesen Funden ihren Kameraden erzählt, entscheidet sie für sich.
