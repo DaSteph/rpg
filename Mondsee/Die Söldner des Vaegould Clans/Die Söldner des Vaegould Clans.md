@@ -30,9 +30,15 @@ In zwei Tagen soll der Überfall stattfinden. Die Bürger von *Weißhorn* wollen si
 
 
 
+# Namen
 
+## männlich 
 
+Comry, Cerba, Boda, Athan, Crane, Gormi, Rondi, Thori, Gisle, Ororn
 
+## weiblich
+
+Kreyda, Maereya, Hallfra, Gyra, Enild, Borgga, Thunga, Swara, Rhybra, Modwenn, Finnda
 
 
 # Krieger
