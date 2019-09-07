@@ -50,10 +50,16 @@ rauhen Küsten der Fesseln teilweise am Meeresboden.
 Fesseln aber auch unter dem Auge und genießen den Schutz davon.
 
 ## Wann?
+In drei Monaten wird es ein Fest an ihrer alten Akademie geben.
+Dort, wenn alle alten Dozenten anwesend sein werden, will sie ihre Macht demonstrieren.
 
 ## Warum?
+Manila ist sehr ehrgeizig und sieht damit die Chance, die zu unterwerfen,
+welche sie unterschätzt haben.
 
 ## Wie?
+Es gibt die Möglichkeit, einen Sturm in ein besonderes Zepter zu bannen.
+Dazu werden verschiedene Artefakte und das Zepter benötigt.
 
 # Thema
 Mensch gegen die Natur
@@ -72,6 +78,8 @@ sichert den Fortbestand nur für den Stärksten.
 * 2012, Katastrophenfilme
 
 ## Abweichend
+Konzentration auf Naturgewalten:
+* Erdbeben, Sturm, Lava/Feuer, Flut/Wellen
 
 ## Thema und Master Plot
 ### Wer?
