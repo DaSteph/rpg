@@ -64,31 +64,31 @@ Natur die Unterwerfung der Menschen sieht.
 berherrschen.
 * Die untote Seeräuber sind nur noch ein Schatten ihrer alten Leben und
 suchen eine neue Chance sich zu beweisen.
- * Die untote Seeräuber leiden unter dem körperlichen Verfall auch wenn
+  * Die untote Seeräuber leiden unter dem körperlichen Verfall auch wenn
 ihr Seelen an der sterblichen Hülle gebunden sind
 * Die Kiemenmenschen leben friedlich auf dem Meeresboden und verteidigen
 ihre Domäne gegen alle Eindringlinge.
- * Die Kiemenmenschen haben sich mit dem Wasser arangiert. Trotzdem kämpfen auch
+  * Die Kiemenmenschen haben sich mit dem Wasser arangiert. Trotzdem kämpfen auch
 sie gegen ihr Reich bedrohende Kräfte, vor allem von außen. Sie nutzen die
 Naturgewalt des Sturms als Versteck und die des Wassers als Waffe.
 
 ## Was?
 * Namila will die Macht hinter dem Auge von Abendego in einen magischen
 Gegenstand bannen, um dieses überall einsetzen zu können.
- * Kontrolle über das Auge von Abendego. Das Auge ist ein risieger Sturm, der
+  * Kontrolle über das Auge von Abendego. Das Auge ist ein risieger Sturm, der
 scheinabr im Inneren kontrolliert wird.
 
 ## Wo?
 * Namilas Wirkbereich liegt in der Crew vom Herrscher der Fesseln -
 überall wo seine Flotte hin reicht.
- * todo
+  * todo
 * Die untoten Seeräuber in den Fesseln bewohnen alte Wracks teilweise an
 rauhen Küsten der Fesseln teilweise am Meeresboden.
- * Alte Wracks stehen kruz davor Opfer des Meeres zu werden, oder sind es schon,
+  * Alte Wracks stehen kruz davor Opfer des Meeres zu werden, oder sind es schon,
 weil sie versunken sind.
 * Die Kiemenmenschen am Grunde des Ozeans leben im tiefen Wasser nahe den
 Fesseln aber auch unter dem Auge und genießen den Schutz davon.
- * Der Grund des Ozeans ist gerade in großen Tiefen eine kampflinie zwischen
+  * Der Grund des Ozeans ist gerade in großen Tiefen eine kampflinie zwischen
 Wasser und Lava
 
 ## Wann?
@@ -102,17 +102,17 @@ demonstrieren.
 ## Warum?
 * Manila ist sehr ehrgeizig und sieht damit die Chance, die zu unterwerfen,
 welche sie unterschätzt haben.
- * Die Dozenten von Namila spotteten immer über Namilas Eifer die Elemente
+  * Die Dozenten von Namila spotteten immer über Namilas Eifer die Elemente
 bezwingen zu können.
- * Erst die Springflut bannt das Wasser von der Insel, um dort das Artefakt
+  * Erst die Springflut bannt das Wasser von der Insel, um dort das Artefakt
 erreichen zu können
 
 ## Wie?
 * Im Auge des Sturm wurde ein magisches Artefakt aktiviert und hat den Sturm
 entfesselt.
 Dieses kann repariert werden um den Sturm zu bändigen und zu kontrollieren.
- * Die Beherrschung des Sturms ist die ultimative Auflehnung gegen die Natur.
- * Das Artefakt ist ein von Menschen geschaffenes Relikt, durch die Natur
+  * Die Beherrschung des Sturms ist die ultimative Auflehnung gegen die Natur.
+  * Das Artefakt ist ein von Menschen geschaffenes Relikt, durch die Natur
 versteckt.
 
 # Nemesis Namila - Mentor
