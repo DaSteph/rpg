@@ -60,7 +60,7 @@ Konzentration auf Naturgewalten:
 ## Wer?
 * Namila ist eine mächtige Hexenmeisterin, die in der Kontrolle der
 Natur die Unterwerfung der Menschen sieht.
- * Namila sieht das Potential in den Naturelementen und will diese Kraft
+  * Namila sieht das Potential in den Naturelementen und will diese Kraft
 berherrschen.
 * Die untote Seeräuber sind nur noch ein Schatten ihrer alten Leben und
 suchen eine neue Chance sich zu beweisen.
