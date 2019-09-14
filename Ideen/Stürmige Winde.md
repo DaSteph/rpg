@@ -88,7 +88,7 @@ Dieses kann repariert werden um den Sturm zu bändigen und zu kontrollieren.
 versteckt.
 
 # Nemesis Namila - Mentor
-## Verlangen und Wünsch
+## Verlangen und Wünsche
 * Macht über das mächtigste der Welt: die Naturgewalt des Sturms
 * Rache an ihren Dozenten, dass sie sie belächelt haben
 
@@ -123,9 +123,55 @@ versteckt.
 
 # Session Zero
 ## Einführung
+Die Charaktere befinden sich auf einem Schiff, welches Tribute von Sagana zu den Fesseln bringen soll.
+Sie umrunden ein Kapp und fahren an einer Steilküste lang (Thema: Wasser schleift Stein).
+
+Plötzlich entdecken sie eine Ballista hoch oben auf dem Kliff. Sie versuchen auszuweichen und verlieren - entwerder
+durch den Beschuss oder durch das Ausweichmanöver - ihr Ruder.
+
+Am Strand schieben Goblins Boote ins Wasser und wollen sie Entern. Es kommt zum Kampf.
 
 ## Aufbau
+Der Kapitän führt das Schiff zum Strand, wo es mit Holsstäben abgestützt wird.
+Die Reparatur des Ruders wird einige Stunden kosten. 
+
+Bis zum Einsetzen der Flut haben die Charaktere Zeit, die Ballista zu zerstören.
 
 ## Erster Versuch
+Die Charactere müssen einen Weg das Kliff hoch suchen.
+Sie stoßen auf das Lager der Goblins und zerstören dieses. 
+
+Die Ballista wird gar nicht von ihnen kontrolliert sondern von untoten Piraten.
 
 ## Echtes Ende
+Nach dem Kampf und der Zerstörung der Ballista finden sie eine unerwartet gut erhaltene Truhe:
+* Bücher
+* Plunder
+* Stoffe
+
+Rückkehr zum Schiff und Weiterfahrt.
+
+## Namen
+
+# Charactere
+
+## Laphier (Ralf)
+* Halb-Elf
+* Waldläufer, Erzfeind Reptilmenschen
+* Beidhändig elfische Krummschwerter
+* Neutral Gut
+  * Gutes und Gerechtes zu tun, ohne dabei eine Neigung für oder wider der Obrigkeit zu haben
+* Einsiedler - durch Isolation geprägt
+
+## Glyphosanto (René)
+* Mensch?
+* Waldläufer, Erzfeind Pflanzen
+* Chaotisch Neutral
+  * stellt die wahre Freiheit dar, sowohl von den Zwängen der Gesellschaft als auch vom Eifer der Weltverbesserer
+  
+## Li'edan (Daniel)
+* Elf
+* Hexer, Blutlinie Grab: Vorfahr war zB Vampir (vorteil gegen Untote)
+* Rechtschaffen neutral 
+  * du bist verlässlich und ehrenhaft, ohne ein Fanatiker zu sein
+* Weiser - Wert auf Wissen
