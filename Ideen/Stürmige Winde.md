@@ -1,32 +1,3 @@
-<!-- TOC -->
-
-- [Stürmige Winde](#st%C3%BCrmige-winde)
-- [Erwartung an das Thema](#erwartung-an-das-thema)
-  - [Umsetzungen](#umsetzungen)
-  - [Abweichend](#abweichend)
-- [Zerlegung und Verbindung mit dem Thema](#zerlegung-und-verbindung-mit-dem-thema)
-  - [Wer?](#wer)
-  - [Was?](#was)
-  - [Wo?](#wo)
-  - [Wann?](#wann)
-  - [Warum?](#warum)
-  - [Wie?](#wie)
-- [Nemesis Namila - Mentor](#nemesis-namila---mentor)
-  - [Verlangen und Wünsch](#verlangen-und-w%C3%BCnsch)
-  - [Ziel](#ziel)
-- [Handlung](#handlung)
-  - [Komponenten um das Artefakt wiederherzustellen](#komponenten-um-das-artefakt-wiederherzustellen)
-  - [Aufbau](#aufbau)
-  - [Versuche](#versuche)
-  - [Zielerreichung](#zielerreichung)
-- [Session Zero](#session-zero)
-  - [Einführung](#einf%C3%BChrung)
-  - [Aufbau](#aufbau-1)
-  - [Erster Vesuch](#erster-vesuch)
-  - [Echtes Ende](#echtes-ende)
-
-<!-- /TOC -->
-
 # Stürmige Winde
 
 Namila möchte das Auge von Abendego bei der nächsten Springflut kontrollieren,
@@ -40,9 +11,10 @@ wegen der Kiemenmenschen.
 „Was gegen die Natur ist, hat auf Dauer keinen Bestand.“
 Nur der Anpassungsfähigste hat Überlebenschancen und die natürliche Selektion
 sichert den Fortbestand nur für den Stärksten.
+
 * Rache der Natur: Naturkatastrophen
 * Schön und unerbittlich: Atemraubend schöne Natur, aber lebensfeindlich
-* Mensch kann sich durch Anpassung mit der Natur arangieren
+* Mensch kann sich durch Anpassung mit der Natur arrangieren
 
 ## Umsetzungen
 * Into the Wild, Cast Away
@@ -61,21 +33,21 @@ Konzentration auf Naturgewalten:
 * Namila ist eine mächtige Hexenmeisterin, die in der Kontrolle der
 Natur die Unterwerfung der Menschen sieht.
   * Namila sieht das Potential in den Naturelementen und will diese Kraft
-berherrschen.
+beherrschen.
 * Die untote Seeräuber sind nur noch ein Schatten ihrer alten Leben und
 suchen eine neue Chance sich zu beweisen.
   * Die untote Seeräuber leiden unter dem körperlichen Verfall auch wenn
 ihr Seelen an der sterblichen Hülle gebunden sind
 * Die Kiemenmenschen leben friedlich auf dem Meeresboden und verteidigen
 ihre Domäne gegen alle Eindringlinge.
-  * Die Kiemenmenschen haben sich mit dem Wasser arangiert. Trotzdem kämpfen auch
+  * Die Kiemenmenschen haben sich mit dem Wasser arrangiert. Trotzdem kämpfen auch
 sie gegen ihr Reich bedrohende Kräfte, vor allem von außen. Sie nutzen die
 Naturgewalt des Sturms als Versteck und die des Wassers als Waffe.
 
 ## Was?
 * Namila will die Macht hinter dem Auge von Abendego in einen magischen
 Gegenstand bannen, um dieses überall einsetzen zu können.
-  * Kontrolle über das Auge von Abendego. Das Auge ist ein risieger Sturm, der
+  * Kontrolle über das Auge von Abendego. Das Auge ist ein riesiger Sturm, der
 scheinabr im Inneren kontrolliert wird.
 
 ## Wo?
@@ -83,12 +55,12 @@ scheinabr im Inneren kontrolliert wird.
 überall wo seine Flotte hin reicht.
   * todo
 * Die untoten Seeräuber in den Fesseln bewohnen alte Wracks teilweise an
-rauhen Küsten der Fesseln teilweise am Meeresboden.
-  * Alte Wracks stehen kruz davor Opfer des Meeres zu werden, oder sind es schon,
+rauen Küsten der Fesseln teilweise am Meeresboden.
+  * Alte Wracks stehen kurz davor Opfer des Meeres zu werden, oder sind es schon,
 weil sie versunken sind.
 * Die Kiemenmenschen am Grunde des Ozeans leben im tiefen Wasser nahe den
 Fesseln aber auch unter dem Auge und genießen den Schutz davon.
-  * Der Grund des Ozeans ist gerade in großen Tiefen eine kampflinie zwischen
+  * Der Grund des Ozeans ist gerade in großen Tiefen eine Kampflinie zwischen
 Wasser und Lava
 
 ## Wann?
@@ -121,7 +93,7 @@ versteckt.
 * Rache an ihren Dozenten, dass sie sie belächelt haben
 
 ## Ziel
-* Das Artefakt bergen, mit dem der Sturm kontrolleirt werden kann
+* Das Artefakt bergen, mit dem der Sturm kontrolliert werden kann
 * sonst: Respekt und Anerkennung durch ihre Dozenten
 
 # Handlung
@@ -145,7 +117,7 @@ versteckt.
 * normalen Sturm kontrollieren
 
 ## Zielerreichung
-* Verknüpfen looser Enden
+* Verknüpfen loser Enden
 * Zum Ende kommen
 * Finale
 
@@ -154,6 +126,6 @@ versteckt.
 
 ## Aufbau
 
-## Erster Vesuch
+## Erster Versuch
 
 ## Echtes Ende
