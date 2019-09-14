@@ -162,12 +162,15 @@ Rückkehr zum Schiff und Weiterfahrt.
 * Neutral Gut
   * Gutes und Gerechtes zu tun, ohne dabei eine Neigung für oder wider der Obrigkeit zu haben
 * Einsiedler - durch Isolation geprägt
+  * Ideal: Höheres Ziel - Talenete nicht für eigenen Vorteil, sondern allen zu helfen
 
 ## Glyphosanto (René)
 * Mensch?
 * Waldläufer, Erzfeind Pflanzen
 * Chaotisch Neutral
   * stellt die wahre Freiheit dar, sowohl von den Zwängen der Gesellschaft als auch vom Eifer der Weltverbesserer
+* Adliger - von Verpflichtungen geprägt
+  * Ideal: Unabhängigkeit - sich beweisen, ohne seine Familie klar zu kommen
   
 ## Li'edan (Daniel)
 * Elf
@@ -175,3 +178,4 @@ Rückkehr zum Schiff und Weiterfahrt.
 * Rechtschaffen neutral 
   * du bist verlässlich und ehrenhaft, ohne ein Fanatiker zu sein
 * Weiser - Wert auf Wissen
+  * Ideal: Logik - Emotionen dürfen nicht den Verstand vernebeln
