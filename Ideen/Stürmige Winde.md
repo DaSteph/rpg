@@ -121,6 +121,40 @@ versteckt.
 * Zum Ende kommen
 * Finale
 
+# Charactere
+
+## Laphier (Ralf)
+* Halb-Elf
+* Waldläufer, Erzfeind Reptilmenschen
+* Beidhändig elfische Krummschwerter
+* Neutral Gut
+  * Gutes und Gerechtes zu tun, ohne dabei eine Neigung für oder wider der Obrigkeit zu haben
+* Einsiedler - durch Isolation geprägt
+  * Ideal: Höheres Ziel - Talenete nicht für eigenen Vorteil, sondern allen zu helfen
+
+## Glyphosanto (René)
+* Mensch?
+* Waldläufer, Erzfeind Pflanzen
+* Chaotisch Neutral
+  * stellt die wahre Freiheit dar, sowohl von den Zwängen der Gesellschaft als auch vom Eifer der Weltverbesserer
+* Adliger - von Verpflichtungen geprägt
+  * Ideal: Unabhängigkeit - sich beweisen, ohne seine Familie klar zu kommen
+  
+## Li'edan (Daniel)
+* Elf
+* Hexer, Blutlinie Grab: Vorfahr war zB Vampir (vorteil gegen Untote)
+* Rechtschaffen neutral 
+  * verlässlich und ehrenhaft, ohne ein Fanatiker zu sein
+* Weiser - Wert auf Wissen
+  * Ideal: Logik - Emotionen dürfen nicht den Verstand vernebeln
+
+## Yatakko (Ingolf)
+* Halbling
+* Schurke
+* Chaotisch neutral
+  * stellt die wahre Freiheit dar, sowohl von den Zwängen der Gesellschaft als auch vom Eifer der Weltverbesserer
+
+
 # Session Zero
 ## Einführung
 Die Charaktere befinden sich auf einem Schiff, welches Tribute von Sagana zu den Fesseln bringen soll.
@@ -152,30 +186,3 @@ Nach dem Kampf und der Zerstörung der Ballista finden sie eine unerwartet gut e
 Rückkehr zum Schiff und Weiterfahrt.
 
 ## Namen
-
-# Charactere
-
-## Laphier (Ralf)
-* Halb-Elf
-* Waldläufer, Erzfeind Reptilmenschen
-* Beidhändig elfische Krummschwerter
-* Neutral Gut
-  * Gutes und Gerechtes zu tun, ohne dabei eine Neigung für oder wider der Obrigkeit zu haben
-* Einsiedler - durch Isolation geprägt
-  * Ideal: Höheres Ziel - Talenete nicht für eigenen Vorteil, sondern allen zu helfen
-
-## Glyphosanto (René)
-* Mensch?
-* Waldläufer, Erzfeind Pflanzen
-* Chaotisch Neutral
-  * stellt die wahre Freiheit dar, sowohl von den Zwängen der Gesellschaft als auch vom Eifer der Weltverbesserer
-* Adliger - von Verpflichtungen geprägt
-  * Ideal: Unabhängigkeit - sich beweisen, ohne seine Familie klar zu kommen
-  
-## Li'edan (Daniel)
-* Elf
-* Hexer, Blutlinie Grab: Vorfahr war zB Vampir (vorteil gegen Untote)
-* Rechtschaffen neutral 
-  * du bist verlässlich und ehrenhaft, ohne ein Fanatiker zu sein
-* Weiser - Wert auf Wissen
-  * Ideal: Logik - Emotionen dürfen nicht den Verstand vernebeln
