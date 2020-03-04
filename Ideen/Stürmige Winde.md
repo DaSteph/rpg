@@ -89,7 +89,7 @@ versteckt.
 
 # Nemesis Namila - Mentor
 
-Namila versteckt ihre Fähigkeiten und ist als unterschätzte Helferin bei - todo -, der direkt dem Lord der Fesseln dient.
+Namila versteckt ihre Fähigkeiten und ist als unterschätzte Helferin bei Teresos, der direkt dem Lord der Fesseln dient.
 
 ## Verlangen und Wünsche
 * Macht über das mächtigste der Welt: die Naturgewalt des Sturms
@@ -187,3 +187,11 @@ Nach dem Kampf und der Zerstörung der Ballista finden sie eine unerwartet gut e
 * Stoffe
 
 Rückkehr zum Schiff und Weiterfahrt.
+
+# S1 - Auftakt
+
+## Ziel: Questhooks
+### Main: Manila auf die Suche nach dem Buch begleiten
+### Side: Kiemenmenschen gegen Untote helfen
+### Side: Mit Piraten andere Piraten überfallen
+### Side: Einer Schatzkarte folgen
