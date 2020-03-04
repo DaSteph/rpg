@@ -72,7 +72,7 @@ Dort, wenn alle alten Dozenten anwesend sein werden, will sie ihre Macht
 demonstrieren.
 
 ## Warum?
-* Manila ist sehr ehrgeizig und sieht damit die Chance, die zu unterwerfen,
+* Namila ist sehr ehrgeizig und sieht damit die Chance, die zu unterwerfen,
 welche sie unterschätzt haben.
   * Die Dozenten von Namila spotteten immer über Namilas Eifer die Elemente
 bezwingen zu können.
@@ -88,6 +88,9 @@ Dieses kann repariert werden um den Sturm zu bändigen und zu kontrollieren.
 versteckt.
 
 # Nemesis Namila - Mentor
+
+Namila versteckt ihre Fähigkeiten und ist als unterschätzte Helferin bei - todo -, der direkt dem Lord der Fesseln dient.
+
 ## Verlangen und Wünsche
 * Macht über das mächtigste der Welt: die Naturgewalt des Sturms
 * Rache an ihren Dozenten, dass sie sie belächelt haben
@@ -133,7 +136,7 @@ versteckt.
   * Ideal: Höheres Ziel - Talenete nicht für eigenen Vorteil, sondern allen zu helfen
 
 ## Glyphosanto (René)
-* Mensch?
+* Elf
 * Waldläufer, Erzfeind Pflanzen
 * Chaotisch Neutral
   * stellt die wahre Freiheit dar, sowohl von den Zwängen der Gesellschaft als auch vom Eifer der Weltverbesserer
@@ -184,5 +187,3 @@ Nach dem Kampf und der Zerstörung der Ballista finden sie eine unerwartet gut e
 * Stoffe
 
 Rückkehr zum Schiff und Weiterfahrt.
-
-## Namen
