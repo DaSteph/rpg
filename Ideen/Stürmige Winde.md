@@ -194,14 +194,14 @@ Rückkehr zum Schiff und Weiterfahrt.
 |---|---|
 |Thema|Mensch gegen die Naturelemente|
 |Plot|Master Plot|
-|Henchman| |
+|Henchman|Necromant Mazran im Auftrag von Namila|
 |Adventure Type|Collecting|
 |Expectation| |
 |Type|121|
-|Act 1 - Intro Goal|PCs hören von einem Friedhof, wo es Untote geben soll. Dort gibt es eine Gruft mit verschlossener Tür. Dahinter bewachen Elementare einen Schatz (mit Ritualdolch). Vor der Tür liegt eine Leiche mit einem Notizbuch mit Hinweisen auf einen Ritual|
-|Act 2 - Setup Journey| |
-|Act 2 - First Attempt| |
-|Act 3 - Final Showdown| |
+|Act 1 - Intro Goal|PCs hören von einem Friedhof, wo es Untote geben soll. Dort gibt es eine Gruft mit verschlossener Tür. Dahinter bewachen Elementare einen Schatz (mit Ritualdolch). Vor der Tür liegt eine Leiche mit einem Notizbuch mit Hinweisen auf einen Ritual.|
+|Act 2 - Setup Journey|PCs reisen zum Tempel 60km.|
+|Act 2 - First Attempt|PCs versuchen den Eingang zu finden und das Buch zu beschaffen, was nicht so einfach ist.|
+|Act 3 - Final Showdown|Der Tempel wird gesäubert und das Buch in der Bibliothek gefnuden, dabei kommt es zum Showdown mit **Mazran**|
 | 10 Names| |
 |Seeds| |
 |Change Of Master Plot| |
