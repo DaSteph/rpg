@@ -5,86 +5,75 @@ aber sie hat Schwierigkeiten das mit Hilfe von Dämonen zu erreichen
 wegen der Kiemenmenschen.
 
 * Genre - High Magic Fantasy
-* Thema - Mensch gegen die Naturelemente
+* Thema - Uralte Schätze
 
 # Erwartung an das Thema
-„Was gegen die Natur ist, hat auf Dauer keinen Bestand.“
-Nur der Anpassungsfähigste hat Überlebenschancen und die natürliche Selektion
-sichert den Fortbestand nur für den Stärksten.
+* Alte Schätze können wertvoll sein aber auch gefährlich.
+* Schätze sind materiell oder auch Wissen und Freundschaften
+* Schätze sind verborgen, versteckt, vergessen
+* Untergegangene Zivilisationen (Atlantis)
 
-* Rache der Natur: Naturkatastrophen
-* Schön und unerbittlich: Atemraubend schöne Natur, aber lebensfeindlich
-* Mensch kann sich durch Anpassung mit der Natur arrangieren
 
 ## Umsetzungen
-* Into the Wild, Cast Away
-* Wenn Krieg ist ziehen wir in die Wüste
-* 2012, Katastrophenfilme
+* Indianer jones
+* Tomb Raider
 
 ## Abweichend
-Konzentration auf Naturgewalten:
-* Erdbeben, Sturm, Lava/Feuer, Ebbe/Flut/Wellen/Tsunami
-* Verbindung mit entsprechenden Elementaren
-* wiederkehrendes Element der Zeit, welche alle Naturgewalten unterstützt
-
+???
 # Zerlegung und Verbindung mit dem Thema
 
 ## Wer?
 * Namila ist eine mächtige Hexenmeisterin, die in der Kontrolle der
 Natur die Unterwerfung der Menschen sieht.
-  * Namila sieht das Potential in den Naturelementen und will diese Kraft
-beherrschen.
+  * Mit dem verschollenen Wissen um die Entstehung des Auges will Namila 
+    dieses für ihre Zwecke bändigen
 * Die Dämonen sind chaotisch böse Externare, die im Abyss heimisch sind.
   * Namila ist einen Pakt mit einem oberen Dämonen eingegangen, der weitere 
 Dämonen für das erreichen des Ziels herbeizaubert. 
 * Die Kiemenmenschen leben friedlich auf dem Meeresboden und verteidigen
 ihre Domäne gegen alle Eindringlinge.
-  * Die Kiemenmenschen haben sich mit dem Wasser arrangiert. Trotzdem kämpfen auch
-sie gegen ihr Reich bedrohende Kräfte, vor allem von außen. Sie nutzen die
-Naturgewalt des Sturms als Versteck und die des Wassers als Waffe.
+  * Einst waren die Kiemenmenschen und die normalen Menschen befreundet und
+    es gab ege bande zu den menschen, diese Freundschaft ist untergegangen
 
 ## Was?
 * Namila will die Macht hinter dem Auge von Abendego in einen magischen
 Gegenstand bannen, um dieses überall einsetzen zu können.
-  * Kontrolle über das Auge von Abendego. Das Auge ist ein riesiger Sturm, der
-scheinabr im Inneren kontrolliert wird.
+  * Das Wissen um solch einen Gegenstand ist untergegangen
 
 ## Wo?
 * Namilas Wirkbereich liegt in der Crew vom Herrscher der Fesseln -
 überall wo seine Flotte hin reicht.
-  * Das Wirkgebiet der Fesseln grenzt direkt an die Flutländer mit dem Auge von 
-Abendego an
+  * In den Fessen gibt es viele verloren gegangene Scätze, teils in gesunkenen
+    Schiffen, teils vergraben an Land
 * Der oberste Dämon wurde von Namile herbeigezaubert und hält sich versteckt
-  * Der Dämon und seine Schergen sind eher an durch die Zeit verfallenen Orten
-anzutreffen: Alte Tempel, verlassenee Friedhöfe usw.
+  * Dämonen sind uralt
 * Die Kiemenmenschen am Grunde des Ozeans leben im tiefen Wasser nahe den
 Fesseln aber auch unter dem Auge und genießen den Schutz davon.
-  * Der Grund des Ozeans ist gerade in großen Tiefen eine Kampflinie zwischen
-Wasser und Lava
+  * Der Ozean hat vieles verschlungen was mit der Zeit in Vergessenheit geraten ist 
 
 ## Wann?
 * kurz davor wird eine Springflut an der Küste erwartet. Der niedrige
 Meeresstand wird eine kleine Insel im Auge freigeben, wo das Artefakt
 liegt.
+  * Die Springflut wird von vielen Piraten genutzt um an die Schiffe zu gelangen,
+    die sonst schwer zu erreichen sind
 * In drei Monaten wird es ein Fest an ihrer alten Akademie geben.
 Dort, wenn alle alten Dozenten anwesend sein werden, will sie ihre Macht
 demonstrieren.
+  * die Akademie versteht sich als Hüter uralten Wissens und jedes Buch ist ein Schatz
 
 ## Warum?
 * Namila ist sehr ehrgeizig und sieht damit die Chance, die zu unterwerfen,
 welche sie unterschätzt haben.
-  * Die Dozenten von Namila spotteten immer über Namilas Eifer die Elemente
-bezwingen zu können.
-  * Erst die Springflut bannt das Wasser von der Insel, um dort das Artefakt
-erreichen zu können
+  * Ihr wurden Wissen vorenthalten,w eil sie noch nicht so weit sei.
 
 ## Wie?
 * Im Auge des Sturm wurde ein magisches Artefakt aktiviert und hat den Sturm
 entfesselt.
 Dieses kann repariert werden um den Sturm zu bändigen und zu kontrollieren.
-  * Die Beherrschung des Sturms ist die ultimative Auflehnung gegen die Natur.
+  * Uraltes Wissen ist nütig umd as Artefakt wieder zu reparieren
   * Das Artefakt ist ein von Menschen geschaffenes Relikt, durch die Natur
-versteckt.
+und Zeit versteckt.
 
 # Nemesis Namila - Mentor
 
