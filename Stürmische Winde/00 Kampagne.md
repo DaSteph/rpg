@@ -90,10 +90,10 @@ Namila versteckt ihre Fähigkeiten und ist als unterschätzte Helferin bei Teres
 # Handlung
 
 ## Komponenten um das Artefakt wiederherzustellen
-* Zauberbuch aus dem Tempel
+* Zauberbuch aus dem Tempel des gefräßigen Mondes
   * [Das Magische Buch](02.0 Das Magische Buch.md)
-  * Tempel des gefräßigen Mondes
 * Dreizack der aquatischen Herrschaft bei den Kiemenmenschen
+  * [Der Schatz von Kapitän Bluthacke](03.0 Der Schatz von Kapitän Bluthacke.md)
 * Schlüssel für Höhle zum Artefakt
 * Zepter um die Elementare in die Kugel zu bannen
 * Kugel der Stürme
