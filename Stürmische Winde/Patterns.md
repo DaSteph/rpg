@@ -32,3 +32,31 @@
 ## Decisions, Revelations (60 min)
 ## Combat, Looting (60 min)
 ## Reward, Walk, Talk (60 min)
+
+#NSC
+|Name| |
+|---|---|
+|Job| | 
+|Use| | 
+|Goal| | 
+|Type|Long-Term / Mentor / Supporter / Guide / Advancer|
+|Competence| |
+|Likeability| |
+|Proactivity| |
+|Coolness| |
+|Quirk| |
+|Equipment| |
+|Desire| |
+|Fear| |
+|Facial| |
+|Speech Pattern| |
+|Body Type| |
+|Sight| |
+|Sound| |
+|Smell| |
+|Touch| |
+|Emotional State| |
+|Happy| |
+|Sad| |
+|Angry| |
+|Bio| |
