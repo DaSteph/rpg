@@ -1,4 +1,4 @@
-|Name|Sha'olan|
+|Name|Sho'olan|
 |---|---|
 |Job|Schmuggler auf der "Kleiner Falke"| 
 |Use|Transport| 
@@ -25,7 +25,7 @@
 |Angry| |
 |Bio| |
 
-|Name|Bacwachec (Kiemenmensch)|
+|Name|Cehwei (Kiemenmensch)|
 |---|---|
 |Job|Crewmitglied und Gefährte von Sha'olan| 
 |Use|Story| 
