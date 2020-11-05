@@ -26,11 +26,11 @@
 
 # Session
 ## Character, Plot, Recap, Intro (60 min) 
-## Combat, Loot (45 min)
+## Combat 0/+1, Loot (45 min)
 ## Riddles, Options, Decisions (60 min)
-## Short Combat (15 min)
+## Short Combat -1/0 (15 min)
 ## Decisions, Revelations (60 min)
-## Combat, Looting (60 min)
+## Combat +1/+2, Looting (60 min)
 ## Reward, Walk, Talk (60 min)
 
 #NSC
